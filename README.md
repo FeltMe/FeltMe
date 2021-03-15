@@ -24,7 +24,7 @@ I'm Oleksandr, 18 yers old person from Ukraine, and I really enjoy developing so
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FeltMe&show_icons=true)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeltMe&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeltMe&show_icons=true&theme=tokyonight)
 
 ![GitHub metrics](https://metrics.lecoq.io/FeltMe)  
 
