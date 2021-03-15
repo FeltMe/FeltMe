@@ -4,7 +4,12 @@
 
 I'm Oleksandr, 18 yers old person from Ukraine, and I really enjoy developing software in the language **C#** and all platform **.NET**. I made simple app's mostly on .Net platform, sometimes enjoy to make games on **Unity** and basic websites on ASP.NET
 
-Skills: .NET \ .NET Core \ HTML \ CSS \ JS \ C++ \ Java (SE\EE) \ T-SQL
+## Skills and Experience:
+*   NET and .NET Core
+*   TML CSS JS
+*   C++
+*   Java (SE\EE) 
+*   T-SQL
 
 - 🔭 I’m currently working on the freelance 
 - 🌱 I’m currently learning React Native 
