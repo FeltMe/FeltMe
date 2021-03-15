@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Oleksandr
 #### Developer ~~with lowercase letter~~
 ![Developer ~~with lowercase letter~~](https://i.ibb.co/k0tChnj/BANner.jpg)
-
+![Profile views](https://gpvc.arturio.dev/FeltMe)  
 
 
 I'm Oleksandr, 18 yers old person from Ukraine, and I really enjoy developing software in the language **C#** and all platform **.NET**. I made simple app's mostly on .Net platform, sometimes enjoy to make games on **Unity** and basic websites on ASP.NET
