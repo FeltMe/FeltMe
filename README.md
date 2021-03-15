@@ -25,9 +25,10 @@ I'm Oleksandr, 18 yers old person from Ukraine, and I really enjoy developing so
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FeltMe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alexandr-drozdiuk-007a851b5//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FeltMe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexandr-drozdiuk-007a851b5/
+)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeltMe&show_icons=true&theme=tokyonight)
 
 ![GitHub metrics](https://metrics.lecoq.io/FeltMe)  
-
+https://www.linkedin.com/in/https://www.linkedin.com/in/alexandr-drozdiuk-007a851b5//
