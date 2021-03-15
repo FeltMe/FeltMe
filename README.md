@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Oleksandr
+#### Developer ~~with lowercase letter~~
+![Developer ~~with lowercase letter~~](https://i.ibb.co/k0tChnj/BANner.jpg)
 
-<!--
-**FeltMe/FeltMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oleksandr, 18 yers old person from Ukraine, and I really enjoy developing software in the language **C#** and all platform **.NET**. I made simple app's mostly on .Net platform, sometimes enjoy to make games on **Unity** and basic websites on ASP.NET
 
-Here are some ideas to get you started:
+Skills: .NET \ .NET Core \ HTML \ CSS \ JS \ C++ \ Java (SE\EE) \ T-SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
