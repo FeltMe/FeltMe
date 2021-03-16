@@ -10,7 +10,7 @@ I'm Oleksandr, 18 yers old person from Ukraine, and I really enjoy developing so
 
 ## Skills and Experience:
 *   NET and .NET Core
-*   TML CSS JS
+*   HTML CSS JS
 *   C++
 *   Java (SE\EE) 
 *   T-SQL
