@@ -21,7 +21,7 @@ I'm Oleksandr, 18 yers old person from Ukraine, and I really enjoy developing so
 - 🌱 I’m currently learning React Native 
 - 💬 Ask me about multithreading and how to sync it 
 - 📫 How to reach me: sdrozdiuk12@gmail.com 
-- ⚡ Fun fact: I entered the KPI in the hope that I would start something there  
+- ⚡ Fun fact: I entered the KPI in the hope that I will learn  something there  
 
 
 
