@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/FeltMe)  
 
 
-I'm Oleksandr, 18 yers old person from Ukraine, and I really enjoy developing software in the language **C#** and all platform **.NET**. I made simple app's mostly on .Net platform, sometimes enjoy to make games on **Unity** and basic websites on ASP.NET
+I'm Oleksandr, 19 yers old person from Ukraine, and I really enjoy developing software in the language **C#** and all platform **.NET**. I made simple app's mostly on .Net platform, sometimes enjoy to make games on **Unity** and basic websites on ASP.NET
 
 
 
