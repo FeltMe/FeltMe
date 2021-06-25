@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/FeltMe)  
 
 
-I'm Oleksandr, 19 yers old person from Ukraine, and I really enjoy developing software in the language **C#** and all platform **.NET**. I made simple app's mostly on .Net platform, sometimes enjoy to make games on **Unity** and basic websites on ASP.NET
+I'm Oleksandr, 19 yers old man from Ukraine, and I really enjoy developing software in the language **C#** and all platform **.NET**. I made simple app's mostly on .Net platform, sometimes enjoy to make games on **Unity** and basic websites on ASP.NET. Nowadays I learning angular and front-end at all, to become a full-stack developer. :)
 
 
 
@@ -14,10 +14,10 @@ I'm Oleksandr, 19 yers old person from Ukraine, and I really enjoy developing so
 *   C++
 *   Java (SE\EE) 
 *   T-SQL
+*   Angular
 
 
 
-- 🔭 I’m currently working on the freelance 
 - 🌱 I’m currently learning React Native 
 - 💬 Ask me about multithreading and how to sync it 
 - 📫 How to reach me: sdrozdiuk12@gmail.com 
